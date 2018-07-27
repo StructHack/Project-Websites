@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1298 688">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: rgba(125,77,253,0.52);
+      }
+
+      .cls-5 {
+        fill: rgba(191,13,254,0.6);
+      }
+
+      .cls-6 {
+        fill: #d1dafc;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="1298" height="688" transform="translate(33 40)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="0.48" x2="0.221" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#958aff"/>
+      <stop offset="1" stop-color="#6ba6ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-2" transform="translate(-33 -40)">
+    <g id="ArtGrp">
+      <path id="Path_1" data-name="Path 1" class="cls-3" d="M606,742.991S725.909,625.567,914.837,641.076s266.474-29.608,322.87-150.861,138.171-117.023,138.171-117.023v369.8Z" transform="translate(-44.096 -13.855)"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-4" cx="8.281" cy="8.281" r="8.281" transform="translate(1124.001 106.557)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-5" cx="6.211" cy="6.211" r="6.211" transform="translate(918.002 461.62)"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-6" cx="10.352" cy="10.352" r="10.352" transform="translate(551.553 160.386)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+
+#content_box table tr td textarea{
+	box-sizing: border-box;
+	width:100%;
+}
+
+#content_box table tr td input{
+	padding: 5px;
+}
+
+@media screen and (max-width: 400px){
+	#content_box table tr td:nth-child(odd){
+		display:none;
+	}
+	#content_box table tr td input{
+		padding:5px;
+		width:100%;
+	}
+}
